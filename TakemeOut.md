@@ -1,24 +1,25 @@
 ## Bag
 ------
-- [x] pens * 3 + pencil * 1 + ruler
-- [x] glasses
-- [x] draft paper
-- [x] notebook >= 1
+- [ ] pens * 3 + pencil * 1 + ruler
+- [ ] fountain pen
+- [ ] glasses
+- [ ] draft paper
+- [ ] notebook >= 1
 - [ ] books you love
-- [x] earplug
-- [x] stick-it
-- [x] phone holder
+- [ ] earplug
+- [ ] stick-it
+- [ ] phone holder
 - [ ] phone, ipad, machine and their chargers
-- [x] power bank
-- [x] external hard drives
-- [x] wallet
-- [x] wired & wireless headphone
-- [x] wireless keyboard
-- [x] mouse 
-- [x] tissues
+- [ ] power bank
+- [ ] external hard drives
+- [ ] wallet
+- [ ] wired & wireless headphone
+- [ ] wireless keyboard
+- [ ] mouse 
+- [ ] tissues
 - [ ] textbooks and books you like
-- [x] water bottle
-- [x] dental floss
+- [ ] water bottle
+- [ ] dental floss
 
 ## Living room
 --------------
@@ -27,67 +28,69 @@
 - [ ] monitor and the transformer
 - [ ] plants
 - [ ] table lamp
-- [x] power strip
-- [x] backup pens (black, blue and red)
+- [ ] power strip
+- [ ] backup pens (black, blue and red)
 - [ ] more color pencils
-- [x] calendar
+- [ ] calendar
 - [ ] pen pot
 - [ ] mugs
-- [x] self-adhesive labels
-- [x] whiteboard, markers and erasers
-- [x] weight scale
+- [ ] self-adhesive labels
+- [ ] whiteboard, markers and erasers
+- [ ] weight scale
 - [ ] Books you love
-- [x] table and chairs
-- [x] rubbish bin (* 2, 1 for working and 1 for miscellaneous)
+- [ ] table and chairs
+- [ ] rubbish bin (* 2, 1 for working and 1 for miscellaneous)
+- [ ] paper knife
+- [ ] glue
 
 
 ### Miscellaneous
 
-- [x] nail clippers, tweezers, scissors
-- [x] ropes
-- [x] screwdrivers 
-- [x] Double-sided tape
-- [x] toothpicks
-- [x] handkerchief
-- [x] rag
-- [x] お茶
+- [ ] nail clippers, tweezers, scissors
+- [ ] ropes
+- [ ] screwdrivers 
+- [ ] Double-sided tape
+- [ ] toothpicks
+- [ ] handkerchief
+- [ ] rag
+- [ ] お茶
 - [ ] fruits
 
 ### Clothes
 
-- [x] underpants
-- [x] socks
-- [x] trousers
-- [x] T-shirt
-- [x] shirts
-- [x] shoes
-- [x] belts
-- [x] ties
+- [ ] underpants
+- [ ] socks
+- [ ] trousers
+- [ ] T-shirt
+- [ ] shirts
+- [ ] shoes
+- [ ] belts
+- [ ] ties
 #### Backup
-- [x] suits
+- [ ] suits
 
 ### Bed
 
-- [x] bed essentials
-- [x] blanket
-- [x] pillow
+- [ ] bed essentials
+- [ ] blanket
+- [ ] pillow
 - [ ] mosquito net
-- [x] quilt
+- [ ] quilt
 
 ### Bathroom
 #### Cleaning 
-- [x] toothbrush, toothpaste, tooth mug and portable tooth mug (taken out)
-- [x] shampoo 
-- [x] facial cleansers
-- [x] flip flops
-- [x] hand-washing soap 
+- [ ] toothbrush, toothpaste, tooth mug and portable tooth mug (taken out)
+- [ ] shampoo 
+- [ ] facial cleansers
+- [ ] flip flops
+- [ ] hand-washing soap 
 #### Washing 
-- [x] laundry detergent
-- [x] hanger
-- [x] clothes rails
+- [ ] laundry detergent
+- [ ] hanger
+- [ ] clothes rails
 - [ ] wash bowel
-- [x] towels
+- [ ] towels
 
 
 ### Backups
-- [x] containment box
+- [ ] containment box
